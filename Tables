@@ -50,11 +50,13 @@
       <td>4</td>
       <td>Ship</td>
     </tr>
-    <tr>
+    <tfoot>
+      <tr>
       <td>Strike Fitness</td>
       <td>1</td>
       <td>Enter Order</td>
     </tr>
+    </tfoot>
     </tbody>
   </table>
 
