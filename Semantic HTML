@@ -15,6 +15,7 @@
     <main>
       <section>
         <figure>
+          <img src="https://content.codecademy.com/courses/SemanticHTML/dogimage.jpeg">
         <article>
           <h2>Facts About Dogs</h2>
           <p>
