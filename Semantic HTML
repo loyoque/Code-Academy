@@ -14,6 +14,7 @@
     
     <main>
       <section>
+        <figure>
         <article>
           <h2>Facts About Dogs</h2>
           <p>
@@ -24,7 +25,12 @@
           <p>A study was conducted on dogs being away from their owners for varying hours and the studies show that dogs who were away from their owners the longest showed the greatest amount of affection!
           </p> 
         </aside>
-      </section>   
+        </figure>
+      </section> 
+      <!--Create <figure> tag here -->
+      
+      
+      
     </main>
     
     <footer>
