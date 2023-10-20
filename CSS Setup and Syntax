@@ -3,7 +3,9 @@
 
 <head>
   <style>
-      p {}
+      p {
+        color: green;
+      }
   </style>
   <title>Vacation World</title>
 </head>
