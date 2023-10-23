@@ -29,3 +29,7 @@ a[href*='florence'] {
 a[href*='beijing']{
   color:lightblue;
 }
+
+a[href*='seoul']{
+  color: lightpink;
+}
