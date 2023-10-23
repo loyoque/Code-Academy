@@ -41,3 +41,7 @@ a:hover {
 .heading-background {
   background-color:aqua;
 }
+
+#publish-time {
+  color: gray;
+}
