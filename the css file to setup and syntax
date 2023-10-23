@@ -15,5 +15,9 @@ h1 {
 }
 
 .uppercase {
-  text-transform:uppercase;
+  text-transform: uppercase;
+}
+
+#article-title {
+font-family: cursive;
 }
