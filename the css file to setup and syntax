@@ -19,5 +19,9 @@ h1 {
 }
 
 #article-title {
-font-family: cursive;
+  font-family: cursive;
+}
+
+a[href*='florence'] {
+  color: lightgreen;
 }
