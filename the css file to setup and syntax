@@ -39,9 +39,25 @@ a:hover {
 }
 
 .heading-background {
-  background-color:aqua;
+  background-color: aqua;
 }
 
 #publish-time {
-  color: gray;
+  color: lightgray;
+}
+
+h5 {
+  color: yellow;
+}
+
+.author-class {
+  color: pink;
+}
+
+#author-id {
+  color: cornflowerblue;
+}
+
+h2.destination {
+  font-family: Tahoma;
 }
