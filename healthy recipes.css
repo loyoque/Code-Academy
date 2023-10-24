@@ -13,4 +13,7 @@ height: 150px;
     list-style: square;
   }
 
-  
+  p,
+  .time{
+    color: gray;
+  }
