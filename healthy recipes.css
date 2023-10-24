@@ -17,3 +17,8 @@ height: 150px;
   .time{
     color: gray;
   }
+
+  p.citation,
+  a.external-link {
+    color: SeaGreen;
+  }
