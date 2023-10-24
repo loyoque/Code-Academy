@@ -13,19 +13,14 @@ a {
 
 /* Navigation */
 
-span{
-  margin: 10px 0;
-}
-
 nav {
   text-align: center;
-  margin: 0 auto;
-  
 }
 
 nav img {
   display: block;
   width: 180px;
+  margin: 0 auto;
 }
 
 nav span {
@@ -33,6 +28,7 @@ nav span {
   font-size: 16px;
   font-weight: 100;
   letter-spacing: 2px;
+  margin: 10 0;
 }
 
 nav a {
@@ -45,7 +41,7 @@ nav a {
   width: 100%;
   height: 500px;
   margin: 10px auto;
-  
+  overflow: scroll;
 }
 
 /* Content Header */
@@ -54,6 +50,7 @@ nav a {
   background-image: url("https://content.codecademy.com/courses/web-101/unit-6/htmlcss1-img_burgerphoto.jpeg");
   background-position: center;
   background-size: cover;
+  height: 320px;
 }
 
 .header h1 {
@@ -64,6 +61,8 @@ nav a {
   font-weight: 300;
   line-height: 40px;
   width: 68%;
+  padding: 20px;
+  margin: 0 auto;
 }
 
 /* Content Body */
