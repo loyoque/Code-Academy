@@ -102,6 +102,7 @@ p {
   display: inline-block;
   padding: 14px;
   text-decoration: none;
+  margin: 10px;
 }
 
 .share a:hover {
