@@ -8,3 +8,9 @@ height: 150px;
   #cook-time {
     font-weight: bold;
   }
+
+  .ingredients {
+    list-style: square;
+  }
+
+  
