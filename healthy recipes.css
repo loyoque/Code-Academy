@@ -22,3 +22,19 @@ height: 150px;
   a.external-link {
     color: SeaGreen;
   }
+
+h1 {
+  font-family: Helvetica;
+}
+
+h2 {
+  font-family: Helvetica;
+}
+
+p {
+  font-family: Helvetica;
+}
+
+li {
+  font-family: Helvetica;
+}
