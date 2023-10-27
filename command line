@@ -6,3 +6,11 @@ $ pwd
 $ cd feb/
 $ pwd
 /home/ccuser/workspace/blog/2015/feb
+$ cd .. /jan
+bash: cd: too many arguments
+$ cd ../jan
+$ pwd
+/home/ccuser/workspace/blog/2015/jan
+$ cd ../..
+$ pwd
+/home/ccuser/workspace/blog
