@@ -1,16 +1,5 @@
+$ cd /home/ccuser/workspace/blog/
 $ pwd
 /home/ccuser/workspace/blog
-$ cd 2015/
-$ pwd
-/home/ccuser/workspace/blog/2015
-$ cd feb/
-$ pwd
-/home/ccuser/workspace/blog/2015/feb
-$ cd .. /jan
-bash: cd: too many arguments
-$ cd ../jan
-$ pwd
-/home/ccuser/workspace/blog/2015/jan
-$ cd ../..
-$ pwd
-/home/ccuser/workspace/blog
+$ ls
+2014  2015  hardware.txt
