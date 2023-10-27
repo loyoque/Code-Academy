@@ -1,7 +1,17 @@
 $ cd 2015/
-$
+$ 
 $ pwd
 /home/ccuser/workspace/blog/2015
 $ cd ..
-$pwd
+$ pwd
 /home/ccuser/workspace/blog
+$ cd 2015/
+$ pwd
+/home/ccuser/workspace/blog/2015
+$ cd jan/
+$ pwd
+/home/ccuser/workspace/blog/2015/jan
+$ cd memory/
+$ pwd
+/home/ccuser/workspace/blog/2015/jan/memory
+$ 
