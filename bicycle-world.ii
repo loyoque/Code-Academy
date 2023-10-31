@@ -24,3 +24,5 @@ $ mkdir safety/
 $ cd ../..
 $ pwd
 /home/ccuser/workspace/bicycle-world-ii
+$ ls
+brands.txt  freight  mountain  racing
