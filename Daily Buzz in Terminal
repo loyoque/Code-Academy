@@ -21,3 +21,8 @@ $ cd ../
 $ pwd
 /home/ccuser/workspace/daily-buzz/business
 $ mkdir startups/disruptors/
+$ pwd
+/home/ccuser/workspace/daily-buzz/business
+$ touch startups/disruptors/tech.txt
+$ touch startups/disruptors/design.txt
+$ touch startups/disruptors/education.txt
