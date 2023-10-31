@@ -1,8 +1,5 @@
-$ cd /home/ccuser/workspace/blog/
-$ pwd
-/home/ccuser/workspace/blog
-$ ls
-2014  2015  hardware.txt
-$ touch keyboard.txt
-$ ls
-2014  2015  hardware.txt  keyboard.txt
+lillyoyoque@Lillys-MacBook-Pro ~ % ls
+Applications	Documents	Library		Music		Public
+Desktop		Downloads	Movies		Pictures
+lillyoyoque@Lillys-MacBook-Pro ~ % 
+
