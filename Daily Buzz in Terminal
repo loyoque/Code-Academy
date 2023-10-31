@@ -17,3 +17,7 @@ $ cd business/
 $ ls
 $ mkdir startups/
 $ cd startups/
+$ cd ../
+$ pwd
+/home/ccuser/workspace/daily-buzz/business
+$ mkdir startups/disruptors/
