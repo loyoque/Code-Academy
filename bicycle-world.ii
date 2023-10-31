@@ -21,3 +21,6 @@ $ touch mud.txt
 $ ls
 dir.txt  heavyweight  lightweight  mud.txt
 $ mkdir safety/
+$ cd ../..
+$ pwd
+/home/ccuser/workspace/bicycle-world-ii
