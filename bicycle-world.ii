@@ -20,4 +20,4 @@ $ touch dir.txt
 $ touch mud.txt
 $ ls
 dir.txt  heavyweight  lightweight  mud.txt
-$ 
+$ mkdir safety/
