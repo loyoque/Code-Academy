@@ -7,4 +7,7 @@ $ pwd
 /home/ccuser/workspace/bicycle-world-ii/freight
 $ ls
 messenger  porteur
+$ cd porteur/
+$ pwd
+/home/ccuser/workspace/bicycle-world-ii/freight/porteur
 $ 
