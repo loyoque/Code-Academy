@@ -2,4 +2,7 @@ $ pwd
 /home/ccuser/workspace/bicycle-world-ii
 $ ls
 brands.txt  freight  mountain  racing
+$ cd freight/
+$ pwd
+/home/ccuser/workspace/bicycle-world-ii/freight
 $ 
