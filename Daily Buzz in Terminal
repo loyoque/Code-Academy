@@ -12,3 +12,6 @@ $ touch issues.txt
 $ cd ../../../
 $ pwd
 /home/ccuser/workspace/daily-buzz
+$ mkdir business/ 
+$ cd business/ 
+$ 
