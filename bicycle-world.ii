@@ -16,4 +16,8 @@ brands.txt  freight  mountain  racing
 $ cd mountain/downhill/
 $ pwd
 /home/ccuser/workspace/bicycle-world-ii/mountain/downhill
+$ touch dir.txt
+$ touch mud.txt
+$ ls
+dir.txt  heavyweight  lightweight  mud.txt
 $ 
