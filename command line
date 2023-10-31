@@ -1,4 +1,4 @@
-lillyoyoque@Lillys-MacBook-Pro test % echo "Hello Command Line" >> hello_cli.txt  
-lillyoyoque@Lillys-MacBook-Pro test % ls
-hello_cli.txt
+lillyoyoque@Lillys-MacBook-Pro test % cat hello_cli.txt
+Hello Command Line
 lillyoyoque@Lillys-MacBook-Pro test % 
+
