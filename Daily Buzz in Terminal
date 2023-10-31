@@ -26,3 +26,7 @@ $ pwd
 $ touch startups/disruptors/tech.txt
 $ touch startups/disruptors/design.txt
 $ touch startups/disruptors/education.txt
+$ cd ../
+$ pwd
+/home/ccuser/workspace/daily-buzz
+$ 
