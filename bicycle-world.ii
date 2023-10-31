@@ -10,4 +10,7 @@ messenger  porteur
 $ cd porteur/
 $ pwd
 /home/ccuser/workspace/bicycle-world-ii/freight/porteur
+$ cd ../..
+$ ls
+brands.txt  freight  mountain  racing
 $ 
