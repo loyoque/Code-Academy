@@ -26,3 +26,6 @@ $ pwd
 /home/ccuser/workspace/bicycle-world-ii
 $ ls
 brands.txt  freight  mountain  racing
+$ mkdir bmx/
+$ pwd
+/home/ccuser/workspace/bicycle-world-ii
