@@ -9,3 +9,6 @@ $ mkdir elections/
 $ cd elections/
 $ touch candidates.txt
 $ touch issues.txt
+$ cd ../../../
+$ pwd
+/home/ccuser/workspace/daily-buzz
