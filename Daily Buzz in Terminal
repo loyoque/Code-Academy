@@ -14,4 +14,6 @@ $ pwd
 /home/ccuser/workspace/daily-buzz
 $ mkdir business/ 
 $ cd business/ 
-$ 
+$ ls
+$ mkdir startups/
+$ cd startups/
