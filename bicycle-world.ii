@@ -13,4 +13,7 @@ $ pwd
 $ cd ../..
 $ ls
 brands.txt  freight  mountain  racing
+$ cd mountain/downhill/
+$ pwd
+/home/ccuser/workspace/bicycle-world-ii/mountain/downhill
 $ 
